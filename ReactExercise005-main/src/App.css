@@ -1,0 +1,19 @@
+
+.App-Gnt {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.btn-gen{ 
+  border-radius: 1px solid;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  text-decoration: none;
+}
